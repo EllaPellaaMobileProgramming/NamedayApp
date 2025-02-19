@@ -1,0 +1,1 @@
+EXPO_PUBLIC_API_URL = https://nameday.abalin.net/api/V1/
